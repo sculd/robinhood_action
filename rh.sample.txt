@@ -1,0 +1,4 @@
+export RH_ID=
+export RH_PW=
+export RH_CLIENT_ID=
+export RH_DEVICE_TOKEN=
